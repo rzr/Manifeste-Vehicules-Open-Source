@@ -45,4 +45,5 @@ Pourtant selon nous, il convient de prendre l’open source pour ce qu’il est,
 ![Co-signataires](https://i.imgur.com/sBhAj55.png)
 
 (1): D’après une étude réalisée par le CNLL, le Syntec Numérique et le Pôle Systematic Paris-Region, Teknowlogy Group (anciennement PAC), elle représente aujourd’hui un marché de plus de 25 milliards d’euros en Europe (en croissance de près de 9% par an) porté par la transformation digitale des entreprises et la mise en œuvre de technologies innovantes, comme la blockchain, le data management ou l’IA : https://cnll.fr/news/etude-open-source-2019/
+
 (2): Enjeu d’autant plus crucial que mobilité rime avec sécurité
